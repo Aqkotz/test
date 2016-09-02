@@ -1,2 +1,1 @@
-# test program by Joe Programmer
-print ("yo")
+print("Hello, world!")
